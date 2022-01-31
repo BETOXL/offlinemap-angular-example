@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
-    "leaflet-offline": "^1.1.0",
+    "ngx.leaflet.offline": "^1.1.2",
     "ngx-indexed-db": "^2.0.5",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
