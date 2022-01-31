@@ -32,7 +32,7 @@
             ],
             "scripts": [
               "node_modules/leaflet/dist/leaflet.js",
-              "node_modules/leaflet-offline/dist/leaflet-offline.js"
+              "node_modules/ngx.leaflet.offline/dist/ngx.leaflet.offline.js"
             ],
             "es5BrowserSupport": true
           },
